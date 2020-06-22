@@ -41,32 +41,15 @@
 	- Pasar Sumur Batu 	Jl. Sumur Batu Raya, 001/01 Kel.Sumur Batu Kec.Kemayoran. Kode-pos 10640 telp: 42801182
 	- Pasar Tanah Tinggi Poncol 	Jl. Letjen Suprapto Kel.Bungur Kec.Senen. Kode-pos 10460 telp : -
 	- Pasar Timbul Kartini 	Jl. Sumur Batu Raya Kel.Kartni Kec.Sawah Besar.Kode-pos 10750 telp: 3103992
-	
 ## Jakarta Barat
-
-   ### Area 1
-	 - Pasar Asem Reges 	Jl. Taman Sari Raya, No.40 Kel.Taman Sari Kec.Taman Sari. Kode-pos 11150 telp: 6292796
-	 - Pasar Gang Kancil 	Jl. Keamanan Kel.Keagungan Kec.Taman Sari. Kode-pos 11130 telp: 6321023
-	 - Pasar Jembatan Besi 	Jl. Jembatan Besi II Kel.Jembatan Besi Kec.Tambora. Kode-pos 11320 telp: 63850384
-	 - Pasar Jembatan Lima 	Jl. K.H. Moch. Mansyur 011/01 Kel.Jembatan Lima Kec.Tambora. Kode-pos 11250 telp: 6336623
-	 - Pasar Mangga Besar 	Jl. Kebon Jeruk XIX Kel.Maphar Kec.Taman Sari. Kode-pos 11160 telp: 6257071
-	 - Pasar Pagi 	Jl. Petak Baru Pasar Pagi Kel.Roa Malaka Kec.Tambora. Kode-pos 11230 telp: 6927675
-	 - Pasar Pecah Kulit 	Jl. Mangga Besar IX Kel.Pinangsia Kec.Taman Sari telp: 6598322
-	 - Pasar Penjagalan 	Jl. Penjagalan Raya No.14 Kel.Pekojan Kec.Tambora. Kode-pos 11240 telp : -
-	 - Pasar Perniagaan 	Jl. Perniagaan Kel.Tambora Kec.Tambora telp: 6902281
-	 - Pasar Sawah Besar 	Jl. Sawah Besar I/II Kel.Maphar Kec.Taman Sari telp: 6258129
-	### Area 2
-	- Pasar Bojong Indah 	Jl. Pakis Raya, 009/06 Kel.Rawa Buaya Kec.Cengkareng. Kode-pos 11740 telp : -
-	- Pasar Cengkareng 	Jl. Bangun Nusa, 001/02 Kel.Cengkareng Timur Kec.Cengkareng. Kode-pos 11730 telp: 6196598
-	- Pasar Citra Garden 	Jl. Perumahan Citra Garden I Ext. 008/015 Kel.Kalideres Kec.Kalideres. Kode-pos 11840 telp: 5442316
-	- Pasar Duta Mas 	Jl. Komplek Perumahan Duta Mas, 002/09 Kel.Wijaya Kusuma Kec.Grogol Petamburan. Kode-pos 11460 telp: 5677416
-	- Pasar Ganefo 	Jl. Utama Raya No.1, 009/01 Kel.Cengkareng Barat Kec.Cengkareng. Kode-pos 11730 telp: 5441754
-	- Pasar Grogol 	Jl. DR. Muwardi IV Kel.Grogol Kec.Grogol Petamburan. Kode-pos 11450 telp: 5672487
-	- Pasar Jelambar Polri 	Jl. Kavling Polri Kel.Wijaya Kusuma Kec.Grogol Petamburan. Kode-pos 11460 telp: 56964059
-	- Pasar Jembatan Dua 	Jl. Tubagus Angke, 005/09 Kel.Angke Kec.Tambora. Kode-pos 11330 telp: 63861172
-	- Pasar Kalideres 	Jl. Benda Raya Kel.Kalideres Kec.Kalideres. Kode-pos 11840 telp: 54075441
-	- Pasar Kampung Duri 	Jl. Duri Raya, 001/03 Kel.Duri Selatan Kec.Tambora. Kode-pos 11270 telp : -
-	- Pasar Kedoya 	Jl. Kedoya Raya, 008/08 Kel.Kedoya Utara Kec.Kebon Jeruk. Kode-pos 11520 telp: 5463870
-	- Pasar Pos Pengumben 	Jl. Z.Z. Kel.Sukabumi Selatan Kec.Kebon Jeruk. Kode-pos 11560 telp: 9225698
-	- Pasar Slipi 	Jl. Anggrek Garuda Kel.Kemanggisan Kec.Pal Merah telp: 5492405
-	- Pasar Timbul Barat 	Jl. Tomang Tinggi Raya Kel.Tomang Kec.Grogol Petamburan. Kode-pos 11440 telp : -
+   ## Area 1
+ Pasar Asem Reges 	Jl. Taman Sari Raya, No.40 Kel.Taman Sari Kec.Taman Sari. Kode-pos 11150 telp: 6292796
+ Pasar Gang Kancil 	Jl. Keamanan Kel.Keagungan Kec.Taman Sari. Kode-pos 11130 telp: 6321023
+ Pasar Jembatan Besi 	Jl. Jembatan Besi II Kel.Jembatan Besi Kec.Tambora. Kode-pos 11320 telp: 63850384
+ Pasar Jembatan Lima 	Jl. K.H. Moch. Mansyur 011/01 Kel.Jembatan Lima Kec.Tambora. Kode-pos 11250 telp: 6336623
+ Pasar Mangga Besar 	Jl. Kebon Jeruk XIX Kel.Maphar Kec.Taman Sari. Kode-pos 11160 telp: 6257071
+ Pasar Pagi 	Jl. Petak Baru Pasar Pagi Kel.Roa Malaka Kec.Tambora. Kode-pos 11230 telp: 6927675
+ Pasar Pecah Kulit 	Jl. Mangga Besar IX Kel.Pinangsia Kec.Taman Sari telp: 6598322
+ Pasar Penjagalan 	Jl. Penjagalan Raya No.14 Kel.Pekojan Kec.Tambora. Kode-pos 11240 telp : -
+ Pasar Perniagaan 	Jl. Perniagaan Kel.Tambora Kec.Tambora telp: 6902281
+ Pasar Sawah Besar 	Jl. Sawah Besar I/II Kel.Maphar Kec.Taman Sari telp: 6258129
