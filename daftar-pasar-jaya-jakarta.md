@@ -3,6 +3,7 @@
 ## Jakarta Pusat 
 
    ### Area 1:
+   
 	- Eks Kantor Cabang 	Jalan Alaydrus telp : -
 	- Pasar Baru 	Jl. H. Samanhudi Kel.Pasar Baru telp: 3845177
 	- Pasar Bendungan Hilir 	Jl. Bendungan Hilir Raya Kel.Bendungan Hilir Kec.Tanah Abang. Kode-pos 10210 telp: 5733574
@@ -24,6 +25,7 @@
 	- Pertokoan Jl. Biak 	Jl. Biak
 
    ### Area 2
+   
 	- Eks Kantor Camat 	Jl. Kramat Baru No. 7 Kec. Kramat Kel. Senen telp: 31909619
 	- Pasar Cempaka Putih 	Jl. Cempaka Putih Barat III telp : -
 	- Pasar Gardu Asem 	Jl. Gardu Asem Kel.Kemayoran Kec.Kemayoran Kode-pos 10620 telp : -
@@ -45,6 +47,7 @@
 ## Jakarta Barat
 
    ### Area 1
+   
 	 - Pasar Asem Reges 	Jl. Taman Sari Raya, No.40 Kel.Taman Sari Kec.Taman Sari. Kode-pos 11150 telp: 6292796
 	 - Pasar Gang Kancil 	Jl. Keamanan Kel.Keagungan Kec.Taman Sari. Kode-pos 11130 telp: 6321023
 	 - Pasar Jembatan Besi 	Jl. Jembatan Besi II Kel.Jembatan Besi Kec.Tambora. Kode-pos 11320 telp: 63850384
@@ -55,7 +58,9 @@
 	 - Pasar Penjagalan 	Jl. Penjagalan Raya No.14 Kel.Pekojan Kec.Tambora. Kode-pos 11240 telp : -
 	 - Pasar Perniagaan 	Jl. Perniagaan Kel.Tambora Kec.Tambora telp: 6902281
 	 - Pasar Sawah Besar 	Jl. Sawah Besar I/II Kel.Maphar Kec.Taman Sari telp: 6258129
-	### Area 2
+	 
+   ### Area 2
+   
 	- Pasar Bojong Indah 	Jl. Pakis Raya, 009/06 Kel.Rawa Buaya Kec.Cengkareng. Kode-pos 11740 telp : -
 	- Pasar Cengkareng 	Jl. Bangun Nusa, 001/02 Kel.Cengkareng Timur Kec.Cengkareng. Kode-pos 11730 telp: 6196598
 	- Pasar Citra Garden 	Jl. Perumahan Citra Garden I Ext. 008/015 Kel.Kalideres Kec.Kalideres. Kode-pos 11840 telp: 5442316
