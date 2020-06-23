@@ -6,18 +6,18 @@
    
 	- Eks Kantor Cabang 	Jalan Alaydrus telp : -
 	- Pasar Baru 	Jl. H. Samanhudi Kel.Pasar Baru telp: 3845177
-	- Pasar Bendungan Hilir 	Jl. Bendungan Hilir Raya Kel.Bendungan Hilir Kec.Tanah Abang. Kode-pos 10210 telp: 5733574
-	- Pasar Blora 	Jl. Kendal No.25 Kel.Menteng Kec.Menteng telp: 3903868
-	- Pasar Cideng Thomas 	Jl. Tanah Abang V Kel.Petojo Selatan Kec.Gambir telp: 3450147
-	- Pasar Cikini Ampiun 	Jl. Pegangsaan Timur Kel.Pegangsaan Kec.Menteng. Kode-pos 10330 telp: 3142084
-	- Pasar Gandaria 	Jl. Kebon Kacang I Kel.Kebon Kacang Kec.Tanah Abang telp : -
-	- Pasar Gondangdia 	Jl. Sri Kaya Raya Kel.Kebon Sirih Kec.Menteng telp: 3927723
-	- Pasar Hias Rias Cikini 	Jl. Cikini Raya No.90 Kel.Cikini Kec.Menteng telp: 3900390
-	- Pasar Jl. Surabaya 	Jl. Surabaya Kel.Menteng Kec.Menteng telp : -
-	- Pasar Kenari 	Jl. Salemba Raya telp : -
-	- Pasar Lontar / Kb.Melati 	Jl. H. Sabeni Raya Kel.Kebon Melati Kec.Tanah Abang . Kode-pos 103992 telp : -
+	- Pasar Bendungan Hilir 	Jl. Bendungan Hilir Raya Kel.Bendungan Hilir Kec.Tanah Abang. Kode-pos 10210 telp: 5733574 1 4 11 1
+	- Pasar Blora 	Jl. Kendal No.25 Kel.Menteng Kec.Menteng telp: 3903868 2 4 11 1
+	- Pasar Cideng Thomas 	Jl. Tanah Abang V Kel.Petojo Selatan Kec.Gambir telp: 3450147 8 4 11 1
+	- Pasar Cikini Ampiun 	Jl. Pegangsaan Timur Kel.Pegangsaan Kec.Menteng. Kode-pos 10330 telp: 3142084 2 4 11 1
+	- Pasar Gandaria 	Jl. Kebon Kacang I Kel.Kebon Kacang Kec.Tanah Abang telp : - 1 4 11 1
+	- Pasar Gondangdia 	Jl. Sri Kaya Raya Kel.Kebon Sirih Kec.Menteng telp: 3927723 2 4 11 1
+	- Pasar Hias Rias Cikini 	Jl. Cikini Raya No.90 Kel.Cikini Kec.Menteng telp: 3900390 2 4 11 1
+	- Pasar Jl. Surabaya 	Jl. Surabaya Kel.Menteng Kec.Menteng telp : - 2 4 11 1
+	- Pasar Kenari 	Jl. Salemba Raya telp : - 3 4 11 1
+	- Pasar Lontar / Kb.Melati 	Jl. H. Sabeni Raya Kel.Kebon Melati Kec.Tanah Abang . Kode-pos 103992 telp : - 1 4 11 1
 	- Pasar Palmerah 	Jl. Hayam Wuruk No.100 Kel.Mangga Besar Kec.Taman Sari. Kode-pos 11120 telp: 5492405
-	- Pasar Paseban 	Jl. Salemba Raya, 014/005 Kel.Paseban Kec.Senen. Kode-pos 10440 telp: 3157077
+	- Pasar Paseban 	Jl. Salemba Raya, 014/005 Kel.Paseban Kec.Senen. Kode-pos 10440 telp: 3157077 3 4 11 1
 	- Pasar Petojo Enclek 	Jl. Suryo Pranoto Gg.IX Kel.Petojo Selatan Kec.Gambir telp : -
 	- Pasar Petojo Ilir 	Jl. A.M. Sangaji, No.16-18, 003/04 Kel.Petojo Utara Kec.Gambir. Kode-pos 11250 telp: 6329375
 	- Pasar Pramuka Pojok 	Jl. Salemba Raya No.79, 001/05 Kel.Paseban Kec.Senen telp : -
