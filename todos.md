@@ -1,9 +1,9 @@
 * **Registrasi** 
   - [x] Penambahan field "Nama Pasar"
         Penambahan pasar dapat berupa dropdown berdasarkan list pasar yang ada di kecamatan
-        yang dipilih user sebelumnya. Penambahan field "Nama pasar dropdown"
-  - [ ] Penambahan field upload KTP
-  - [ ] Penambahan field upload selfie
+        yang dipilih user sebelumnya. Penambahan field "Nama pasar dropdown" (done)
+  - [ ] Penambahan field upload KTP (on progress)
+  - [ ] Penambahan field upload selfie (on progress)
 * **Merchant**
   - [ ] Manage merchant list
   - [ ] Click button "Action"
