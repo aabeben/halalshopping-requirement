@@ -1,5 +1,5 @@
 * **Registrasi** 
-  - [**x**] Penambahan field "Nama Pasar"
+  - [x] Penambahan field "Nama Pasar"
         Penambahan pasar dapat berupa dropdown berdasarkan list pasar yang ada di kecamatan
         yang dipilih user sebelumnya. Penambahan field "Nama pasar dropdown"
   - [ ] Penambahan field upload KTP
